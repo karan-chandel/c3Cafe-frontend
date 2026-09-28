@@ -201,6 +201,24 @@ export const Navbar: React.FC = () => {
                 </Link>
 
                 <Link
+                  href="#tablereserve"
+                  onClick={() => setIsOpen(false)}
+                  className="flex items-center justify-between p-3.5 rounded-2xl bg-white border border-[#ebdcd0] hover:border-[#e05326] active:bg-[#f4efe8] transition-all group"
+                >
+                  <div className="flex items-center gap-3">
+                    <span className="w-8 h-8 rounded-xl bg-orange-500/10 text-orange-600 flex items-center justify-center text-base">
+                      🪑
+                    </span>
+                    <span className="text-sm font-bold text-[#1c1917] group-hover:text-[#e05326]">
+                      Table Reservation
+                    </span>
+                  </div>
+                  <span className="text-[10px] font-bold text-orange-600 bg-orange-50 px-2 py-0.5 rounded-full border border-orange-200">
+                    Book Online
+                  </span>
+                </Link>
+
+                <Link
                   href="#franchise"
                   onClick={() => setIsOpen(false)}
                   className="flex items-center justify-between p-3.5 rounded-2xl bg-white border border-[#ebdcd0] hover:border-[#e05326] active:bg-[#f4efe8] transition-all group"
