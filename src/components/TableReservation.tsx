@@ -42,7 +42,7 @@ Please confirm my table reservation.`;
 
         {/* Background */}
         <img
-          src="/images/holl.png"
+          src="/cafe/holl.png"
           alt="Chai Chowk Cafe"
           className="absolute inset-0 h-full w-full object-cover"
         />
@@ -94,7 +94,7 @@ Please confirm my table reservation.`;
             <div className="hidden lg:block">
               <div className="relative overflow-hidden rounded-3xl border-4 border-white/20 shadow-2xl">
                 <img
-                  src="images/collage.png"
+                  src="/cafe/collage.png"
                   alt="Chai Chowk Cafe Table"
                   className="h-[400px] w-full object-cover"
                 />
@@ -145,7 +145,7 @@ Please confirm my table reservation.`;
 
               <div className="relative h-52 overflow-hidden">
                 <img
-                  src="images/gupshup.jpeg"
+                  src="/cafe/gupshup.jpeg"
                   alt="Chai and Gupshup"
                   className="h-full w-full object-cover transition duration-500 group-hover:scale-105"
                 />
@@ -175,7 +175,7 @@ Please confirm my table reservation.`;
 
               <div className="relative h-52 overflow-hidden">
                 <img
-                  src="images/birthday.png"
+                  src="/cafe/birthday.png"
                   alt="Birthday Celebration"
                   className="h-full w-full object-cover transition duration-500 group-hover:scale-105"
                 />
@@ -205,7 +205,7 @@ Please confirm my table reservation.`;
 
               <div className="relative h-52 overflow-hidden">
                 <img
-                  src="images/special.jpg"
+                  src="/cafe/special.jpg"
                   alt="Special Moments"
                   className="h-full w-full object-cover transition duration-500 group-hover:scale-105"
                 />

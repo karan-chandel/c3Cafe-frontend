@@ -67,7 +67,7 @@ export const Hero: React.FC = () => {
               <div className="relative rounded-2xl overflow-hidden aspect-[4/5] sm:aspect-square">
                 {/* Real Cafe Interior Seating Photo */}
                 <img
-                  src="/storefront.jpg"
+                  src="/cafe/meating.png"
                   alt="Chai Chowk Cafe Real Interior at MM PG College Fatehabad"
                   className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
                 />
