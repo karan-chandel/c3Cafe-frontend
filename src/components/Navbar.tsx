@@ -60,6 +60,13 @@ export const Navbar: React.FC = () => {
               <Link href="#menu" className="hover:text-[#e05326] transition-colors">
                 Menu
               </Link>
+
+              <Link
+               href="#tablereserve"
+               className="hover:text-[#e05326] transition-colors">
+               Table Reservation
+              </Link>
+
               <Link
                 href="#franchise"
                 className="text-[#133e3b] hover:text-[#e05326] transition-colors flex items-center gap-1.5 font-bold"

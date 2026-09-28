@@ -75,6 +75,11 @@ export const Footer: React.FC = () => {
                   Location & Hours
                 </Link>
               </li>
+              <li>
+                <Link href="#tablereserve" className="hover:text-[#ff8159] transition-colors" >
+                Table Reservation
+                </Link>
+              </li>
             </ul>
           </div>
 

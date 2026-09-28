@@ -1,6 +1,7 @@
 import { Navbar } from "@/components/Navbar";
 import { Hero } from "@/components/Hero";
 import { MenuSection } from "@/components/MenuSection";
+import TableReservation from "@/components/TableReservation";
 import { Franchise } from "@/components/Franchise";
 import { Location } from "@/components/Location";
 import FloatingWA from "@/components/FloatingWA";
@@ -16,6 +17,7 @@ export default function Home() {
       <main className="flex-1">
         <Hero />
         <MenuSection />
+        <TableReservation/>
         <Franchise />
         <Location />
       </main>
