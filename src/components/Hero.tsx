@@ -38,7 +38,7 @@ export const Hero: React.FC = () => {
 
               <a
                 href="#location"
-                className="px-8 py-3.5 rounded-full border-2 border-[#133e3b] text-[#133e3b] bg-white hover:bg-[#133e3b] hover:text-white font-bold text-sm sm:text-base transition-all hover:scale-105 text-center flex items-center justify-center gap-2 shadow-sm"
+                className="px-8 py-3.5 rounded-full border-2 border-[#133e3b] text-white bg-[#133e3b] font-bold text-sm sm:text-base transition-all hover:scale-105 text-center flex items-center justify-center gap-2 shadow-sm"
               >
                 📍 Locate Us
               </a>

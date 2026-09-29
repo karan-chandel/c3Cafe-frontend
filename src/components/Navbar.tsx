@@ -64,7 +64,7 @@ export const Navbar: React.FC = () => {
               <Link
                href="#tablereserve"
                className="hover:text-[#e05326] transition-colors">
-               Table Reservation
+               Book Your Table
               </Link>
 
               <Link
@@ -210,7 +210,7 @@ export const Navbar: React.FC = () => {
                       🪑
                     </span>
                     <span className="text-sm font-bold text-[#1c1917] group-hover:text-[#e05326]">
-                      Table Reservation
+                      Book your Table
                     </span>
                   </div>
                   <span className="text-[10px] font-bold text-orange-600 bg-orange-50 px-2 py-0.5 rounded-full border border-orange-200">

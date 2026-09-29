@@ -5,7 +5,7 @@ import { MENU_CATEGORIES, MENU_ITEMS } from "@/data/menu";
 import { MenuCategory } from "@/types";
 
 const CATEGORY_FALLBACKS: Record<string, string> = {
-  tea: "https://images.unsplash.com/photo-1576092768241-dec231879fc3?auto=format&fit=crop&w=600&q=80",
+  tea: "public/chai/rosechai.jpg",
   coffee: "https://images.unsplash.com/photo-1517701550927-30cf4ba1dba5?auto=format&fit=crop&w=600&q=80",
   "mocktails-shakes": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?auto=format&fit=crop&w=600&q=80",
   pizza: "https://images.unsplash.com/photo-1513104890138-7c749659a591?auto=format&fit=crop&w=600&q=80",

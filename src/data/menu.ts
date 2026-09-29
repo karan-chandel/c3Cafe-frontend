@@ -25,7 +25,7 @@ export const MENU_ITEMS: MenuItem[] = [
     isVeg: true,
     isBestseller: true,
     rating: 4.9,
-    image: "https://images.unsplash.com/photo-1544787219-7f47ccb76574?auto=format&fit=crop&w=600&q=80",
+    image: "/chai/adrak-chai.jpg",
   },
   {
     id: "rose-chai",
@@ -36,7 +36,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: "Delicate royal rose petal infused fragrant sweet tea.",
     isVeg: true,
     rating: 4.8,
-    image: "https://images.unsplash.com/photo-1576092768241-dec231879fc3?auto=format&fit=crop&w=600&q=80",
+    image: "/chai/rosechai.jpg",
   },
   {
     id: "elaichi-chai",
@@ -47,7 +47,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: "Rich cardamom spiced hot tea with a calming fragrant aroma.",
     isVeg: true,
     rating: 4.8,
-    image: "https://images.unsplash.com/photo-1561336313-0bd5e0b27ec8?auto=format&fit=crop&w=600&q=80",
+    image: "/chai/elaichi-chai.jpg",
   },
   {
     id: "desi-masala-chai",
@@ -59,7 +59,7 @@ export const MENU_ITEMS: MenuItem[] = [
     isVeg: true,
     isBestseller: true,
     rating: 5.0,
-    image: "https://images.unsplash.com/photo-1597481499750-3e6b22637e12?auto=format&fit=crop&w=600&q=80",
+    image: "/chai/masala-chai.jpg",
   },
   {
     id: "kesar-chai",
@@ -71,7 +71,7 @@ export const MENU_ITEMS: MenuItem[] = [
     isVeg: true,
     isChefSpecial: true,
     rating: 4.9,
-    image: "https://images.unsplash.com/photo-1571934811356-5cc061b6821f?auto=format&fit=crop&w=600&q=80",
+    image: "/chai/kesar-chai.jpg",
   },
   {
     id: "gurh-chai",
@@ -82,7 +82,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: "Traditional healthy jaggery tea brewed with winter spices.",
     isVeg: true,
     rating: 4.8,
-    image: "https://images.unsplash.com/photo-1544787219-7f47ccb76574?auto=format&fit=crop&w=600&q=80",
+    image: "/chai/gurh-chai.jpg",
   },
   {
     id: "adrak-elaichi-chai",
@@ -94,7 +94,7 @@ export const MENU_ITEMS: MenuItem[] = [
     isVeg: true,
     isBestseller: true,
     rating: 4.9,
-    image: "https://images.unsplash.com/photo-1576092768241-dec231879fc3?auto=format&fit=crop&w=600&q=80",
+    image: "/chai/elaichi-chai.jpg",
   },
   {
     id: "gurh-elaichi-chai",
@@ -105,7 +105,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: "Organic jaggery sweetness coupled with aromatic green cardamom.",
     isVeg: true,
     rating: 4.8,
-    image: "https://images.unsplash.com/photo-1561336313-0bd5e0b27ec8?auto=format&fit=crop&w=600&q=80",
+    image: "/chai/gurh-elachi.jpg",
   },
   {
     id: "green-tea",
@@ -116,7 +116,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: "Antioxidant-rich soothing whole leaf green tea brew in glass cup.",
     isVeg: true,
     rating: 4.7,
-    image: "https://images.unsplash.com/photo-1627435601361-ec25f5b1d0e5?auto=format&fit=crop&w=600&q=80",
+    image: "/chai/green-tea.jpg",
   },
 
   // ==================== 2. HOT & COLD COFFEE ====================
@@ -129,7 +129,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: "Bold, rich freshly brewed dark roast espresso shot.",
     isVeg: true,
     rating: 4.7,
-    image: "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?auto=format&fit=crop&w=600&q=80",
+    image: "/chai/black-coffee.jpg",
   },
   {
     id: "hot-coffee",
@@ -141,7 +141,7 @@ export const MENU_ITEMS: MenuItem[] = [
     isVeg: true,
     isBestseller: true,
     rating: 4.8,
-    image: "https://images.unsplash.com/photo-1534778101976-62847782c213?auto=format&fit=crop&w=600&q=80",
+    image: "/chai/hot-coffee.jpg",
   },
   {
     id: "extra-strong-hot-coffee",
@@ -152,7 +152,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: "Double strength bold espresso brew for an instant caffeine kick.",
     isVeg: true,
     rating: 4.9,
-    image: "https://images.unsplash.com/photo-1510707577719-ae7c14805e3a?auto=format&fit=crop&w=600&q=80",
+    image: "/chai/extra-hot-coffee.jpg",
   },
   {
     id: "classic-cold-coffee",
@@ -164,7 +164,7 @@ export const MENU_ITEMS: MenuItem[] = [
     isVeg: true,
     isBestseller: true,
     rating: 4.9,
-    image: "https://images.unsplash.com/photo-1517701550927-30cf4ba1dba5?auto=format&fit=crop&w=600&q=80",
+    image: "/chai/classis-coffee.jpg",
   },
   {
     id: "extra-strong-cold-coffee",
@@ -175,7 +175,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: "Double espresso dark cold brew poured over ice cubes.",
     isVeg: true,
     rating: 4.8,
-    image: "https://images.unsplash.com/photo-1461023058943-07fcbe16d735?auto=format&fit=crop&w=600&q=80",
+    image: "/chai/extra-cold-coffee.jpg",
   },
   {
     id: "cold-coffee-with-ice-cream",
@@ -187,7 +187,7 @@ export const MENU_ITEMS: MenuItem[] = [
     isVeg: true,
     isBestseller: true,
     rating: 5.0,
-    image: "https://images.unsplash.com/photo-1572490122747-3968b75cc699?auto=format&fit=crop&w=600&q=80",
+    image: "/chai/cold-icecream.jpg",
   },
   {
     id: "extra-strong-cold-coffee-with-ice-cream",
@@ -199,7 +199,7 @@ export const MENU_ITEMS: MenuItem[] = [
     isVeg: true,
     isChefSpecial: true,
     rating: 4.9,
-    image: "https://images.unsplash.com/photo-1582293041079-7814c2f12063?auto=format&fit=crop&w=600&q=80",
+    image: "/chai/extra-icecream.jpg",
   },
 
   // ==================== 3. MOCKTAILS & SHAKES ====================
@@ -212,7 +212,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: "Fizzy sparkling soda with fresh squeezed lemon juice and mint.",
     isVeg: true,
     rating: 4.7,
-    image: "https://images.unsplash.com/photo-1513558161293-cdaf765ed2fd?auto=format&fit=crop&w=600&q=80",
+    image: "/mocktails-shakes/fresh-soda.jpg",
   },
   {
     id: "mint-mojito",
@@ -224,7 +224,7 @@ export const MENU_ITEMS: MenuItem[] = [
     isVeg: true,
     isBestseller: true,
     rating: 4.8,
-    image: "https://images.unsplash.com/photo-1551024709-8f23befc6f87?auto=format&fit=crop&w=600&q=80",
+    image: "/mocktails-shakes/mint-mojito.jpg",
   },
   {
     id: "paan-mojito",
@@ -236,7 +236,7 @@ export const MENU_ITEMS: MenuItem[] = [
     isVeg: true,
     isChefSpecial: true,
     rating: 4.9,
-    image: "https://images.unsplash.com/photo-1536935338788-846bb9981813?auto=format&fit=crop&w=600&q=80",
+    image: "/mocktails-shakes/paan-mojito.jpg",
   },
   {
     id: "blue-curacao",
@@ -247,7 +247,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: "Vibrant tropical electric blue citrus cooler served ice-cold.",
     isVeg: true,
     rating: 4.8,
-    image: "https://images.unsplash.com/photo-1546171753-97d7676e4602?auto=format&fit=crop&w=600&q=80",
+    image: "/mocktails-shakes/blue-curacao.jpg",
   },
   {
     id: "ice-tea",
@@ -258,7 +258,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: "Chilled lemon infused brew with fresh mint and crushed ice.",
     isVeg: true,
     rating: 4.7,
-    image: "https://images.unsplash.com/photo-1556679343-c7306c1976bc?auto=format&fit=crop&w=600&q=80",
+    image: "/mocktails-shakes/ice-tea.cms",
   },
   {
     id: "butter-scotch-shake",
@@ -269,7 +269,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: "Creamy butterscotch crunch thick shake topped with caramel.",
     isVeg: true,
     rating: 4.8,
-    image: "https://images.unsplash.com/photo-1579954115545-a95591f28bfc?auto=format&fit=crop&w=600&q=80",
+    image: "/mocktails-shakes/butterscotch-shakes.jpg",
   },
   {
     id: "strawberry-shake",
@@ -280,7 +280,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: "Sweet strawberry thick shake made with fresh fruit puree.",
     isVeg: true,
     rating: 4.7,
-    image: "https://images.unsplash.com/photo-1553787499-6f9133860278?auto=format&fit=crop&w=600&q=80",
+    image: "/mocktails-shakes/strawberry-shakes.jpg",
   },
   {
     id: "chocolate-shake",
@@ -291,7 +291,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: "Rich cocoa fudge blended with chilled creamy milk.",
     isVeg: true,
     rating: 4.9,
-    image: "https://images.unsplash.com/photo-1572490122747-3968b75cc699?auto=format&fit=crop&w=600&q=80",
+    image: "/mocktails-shakes/chocolate-shakes.jpg",
   },
   {
     id: "oreo-shake",
@@ -303,7 +303,7 @@ export const MENU_ITEMS: MenuItem[] = [
     isVeg: true,
     isBestseller: true,
     rating: 5.0,
-    image: "https://images.unsplash.com/photo-1563805042-7684c019e1cb?auto=format&fit=crop&w=600&q=80",
+    image: "/mocktails-shakes/oreo-shakes.jpg",
   },
 
   // ==================== 4. PIZZAS & DEALS ====================
@@ -318,7 +318,7 @@ export const MENU_ITEMS: MenuItem[] = [
     isBestseller: true,
     isChefSpecial: true,
     rating: 5.0,
-    image: "https://images.unsplash.com/photo-1513104890138-7c749659a591?auto=format&fit=crop&w=600&q=80",
+    image: "/pizza/heart-pizza.jpg",
   },
   {
     id: "special-heart-pizza",
@@ -330,7 +330,7 @@ export const MENU_ITEMS: MenuItem[] = [
     isVeg: true,
     isChefSpecial: true,
     rating: 5.0,
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?auto=format&fit=crop&w=600&q=80",
+    image: "/pizza/special-herat.jpg",
   },
   {
     id: "margherita-pizza",
@@ -341,7 +341,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: "Classic pizza sauce topped with stringy golden Mozzarella Cheese.",
     isVeg: true,
     rating: 4.8,
-    image: "https://images.unsplash.com/photo-1604382355076-af4b0eb60143?auto=format&fit=crop&w=600&q=80",
+    image: "/pizza/margherita-pizza.jpg",
   },
   {
     id: "italian-margherita",
@@ -352,7 +352,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: "Authentic Italian crust topped with fresh juicy tomatoes & Mozzarella Cheese.",
     isVeg: true,
     rating: 4.8,
-    image: "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?auto=format&fit=crop&w=600&q=80",
+    image: "/pizza/italian-pizza.webp",
   },
   {
     id: "golden-corn-pizza",
@@ -363,7 +363,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: "Topped with juicy sweet corn, soft Paneer cubes & melted Mozzarella Cheese.",
     isVeg: true,
     rating: 4.8,
-    image: "https://images.unsplash.com/photo-1541745537411-b8046dc6d66c?auto=format&fit=crop&w=600&q=80",
+    image: "/pizza/golden-corn-pizza.jpg",
   },
   {
     id: "deluxe-veg-pizza",
@@ -375,7 +375,7 @@ export const MENU_ITEMS: MenuItem[] = [
     isVeg: true,
     isBestseller: true,
     rating: 4.9,
-    image: "https://images.unsplash.com/photo-1534308983496-4fabb1a015ee?auto=format&fit=crop&w=600&q=80",
+    image: "/pizza/deluxe-pizza.jpg",
   },
   {
     id: "green-veg-pizza",
@@ -386,7 +386,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: "Topped with fresh crisp Onion, Tomato, Capsicum & melted Mozzarella Cheese.",
     isVeg: true,
     rating: 4.7,
-    image: "https://images.unsplash.com/photo-1590947132387-155cc02f3212?auto=format&fit=crop&w=600&q=80",
+    image: "/pizza/green-pizza.jpg",
   },
   {
     id: "classic-veg-pizza",
@@ -397,7 +397,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: "Topped with Onion, green Capsicum, Paneer & Mozzarella Cheese.",
     isVeg: true,
     rating: 4.8,
-    image: "https://images.unsplash.com/photo-1588315029754-2dd089d39a1a?auto=format&fit=crop&w=600&q=80",
+    image: "/pizza/classic-veg-pizza.jpg",
   },
   {
     id: "chaap-pizza",
@@ -409,7 +409,7 @@ export const MENU_ITEMS: MenuItem[] = [
     isVeg: true,
     isBestseller: true,
     rating: 4.9,
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?auto=format&fit=crop&w=600&q=80",
+    image: "/pizza/chaap-pizza.jpg",
   },
   {
     id: "farm-house-pizza",
@@ -420,19 +420,9 @@ export const MENU_ITEMS: MenuItem[] = [
     description: "Topped with Onion, Capsicum, Tomato, sliced Button Mushroom & Mozzarella Cheese.",
     isVeg: true,
     rating: 4.8,
-    image: "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?auto=format&fit=crop&w=600&q=80",
+    image: "/pizza/farm-pizza.jpg",
   },
-  {
-    id: "four-veggie-pizza",
-    name: "Four Veggie Pizza",
-    hindiName: "फोर वेजी पिज्जा",
-    category: "pizza",
-    price: 169,
-    description: "Topped with Capsicum, Corn, Onion, Paneer, signature Zesty Dip & Mozzarella Cheese.",
-    isVeg: true,
-    rating: 4.9,
-    image: "https://images.unsplash.com/photo-1513104890138-7c749659a591?auto=format&fit=crop&w=600&q=80",
-  },
+ 
   {
     id: "spicy-paneer-pizza",
     name: "Spicy Paneer Pizza",
@@ -443,19 +433,9 @@ export const MENU_ITEMS: MenuItem[] = [
     isVeg: true,
     isBestseller: true,
     rating: 5.0,
-    image: "https://images.unsplash.com/photo-1590947132387-155cc02f3212?auto=format&fit=crop&w=600&q=80",
+    image: "/pizza/spicy-paneer-pizza.jpg",
   },
-  {
-    id: "hot-spicy-pizza",
-    name: "Hot Spicy Pizza",
-    hindiName: "हॉट स्पाइसी पिज्जा",
-    category: "pizza",
-    price: 169,
-    description: "Topped with Onion, Capsicum, Jalapeno, Mushroom, spicy dip & Mozzarella Cheese.",
-    isVeg: true,
-    rating: 4.8,
-    image: "https://images.unsplash.com/photo-1604382355076-af4b0eb60143?auto=format&fit=crop&w=600&q=80",
-  },
+ 
   {
     id: "tandoori-pizza",
     name: "Tandoori Special Pizza",
@@ -466,7 +446,7 @@ export const MENU_ITEMS: MenuItem[] = [
     isVeg: true,
     isBestseller: true,
     rating: 5.0,
-    image: "https://images.unsplash.com/photo-1513104890138-7c749659a591?auto=format&fit=crop&w=600&q=80",
+    image: "/pizza/tanduri-pizza.jpg",
   },
   {
     id: "kadhai-paneer-pizza",
@@ -478,7 +458,7 @@ export const MENU_ITEMS: MenuItem[] = [
     isVeg: true,
     isChefSpecial: true,
     rating: 4.9,
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?auto=format&fit=crop&w=600&q=80",
+    image: "/pizza/panner-pizza.jpg",
   },
   {
     id: "veg-cheese-pizza",
@@ -489,7 +469,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: "Topped with Onion, Capsicum, Corn, Olive, Cheese Dip with extra Mozzarella Cheese.",
     isVeg: true,
     rating: 4.8,
-    image: "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?auto=format&fit=crop&w=600&q=80",
+    image: "/pizza/veg-cheese-pizza.jpg",
   },
   {
     id: "veg-loaded-pizza",
@@ -501,7 +481,7 @@ export const MENU_ITEMS: MenuItem[] = [
     isVeg: true,
     isBestseller: true,
     rating: 5.0,
-    image: "https://images.unsplash.com/photo-1534308983496-4fabb1a015ee?auto=format&fit=crop&w=600&q=80",
+    image: "/pizza/veg-loaded-pizza.jpg",
   },
   {
     id: "c3-spicy-loaded-pizza",
@@ -513,7 +493,7 @@ export const MENU_ITEMS: MenuItem[] = [
     isVeg: true,
     isChefSpecial: true,
     rating: 5.0,
-    image: "https://images.unsplash.com/photo-1590947132387-155cc02f3212?auto=format&fit=crop&w=600&q=80",
+    image: "/pizza/c3-spicy-loaded-pizza.jpg",
   },
   {
     id: "salsa-paneer-pizza",
@@ -524,7 +504,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: "Topped with Onion, Capsicum, Corn, Jalapeno, marinated Paneer, Red Paprika & extra Mozzarella.",
     isVeg: true,
     rating: 4.9,
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?auto=format&fit=crop&w=600&q=80",
+    image: "/pizza/salsa-paneer-pizza.jpg",
   },
 
   // ==================== 5. BURGERS & WRAPS ====================
@@ -537,7 +517,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: "Crispy spiced aloo patty layered with Onion, Tomato, and burger mayonnaise.",
     isVeg: true,
     rating: 4.7,
-    image: "https://images.unsplash.com/photo-1550547660-d9450f859349?auto=format&fit=crop&w=600&q=80",
+    image: "/burger/junior-burger.jpg",
   },
   {
     id: "delux-burger",
@@ -549,7 +529,7 @@ export const MENU_ITEMS: MenuItem[] = [
     isVeg: true,
     isBestseller: true,
     rating: 4.8,
-    image: "https://images.unsplash.com/photo-1585238342024-78d387f4a707?auto=format&fit=crop&w=600&q=80",
+    image: "/burger/delux-burger.jpg",
   },
   {
     id: "cheese-burger",
@@ -560,7 +540,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: "Spicy Paneer patty grilled with Onion and generous melted cheese slice.",
     isVeg: true,
     rating: 4.8,
-    image: "https://images.unsplash.com/photo-1572802419224-296b0aeee0d9?auto=format&fit=crop&w=600&q=80",
+    image: "/burger/cheese-burger.jpg",
   },
   {
     id: "c3-veg-loaded-burger",
@@ -572,7 +552,7 @@ export const MENU_ITEMS: MenuItem[] = [
     isVeg: true,
     isChefSpecial: true,
     rating: 5.0,
-    image: "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?auto=format&fit=crop&w=600&q=80",
+    image: "/burger/c3-veg-loadded-burger.jpg",
   },
   {
     id: "green-veg-wrap",
@@ -583,7 +563,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: "Rolled with Onion, Capsicum, Tomato, Jalapeno, Corn, Mushroom, Mint & Cheese dip.",
     isVeg: true,
     rating: 4.8,
-    image: "https://images.unsplash.com/photo-1626700051175-6818013e1d4f?auto=format&fit=crop&w=600&q=80",
+    image: "/wrap & roll/green-veg-roll.jpg",
   },
   {
     id: "aloo-tikki-wrap",
@@ -594,7 +574,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: "Crispy Herb Aloo patty wrapped with Onion, Tomato, Capsicum and creamy sauces.",
     isVeg: true,
     rating: 4.8,
-    image: "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?auto=format&fit=crop&w=600&q=80",
+    image: "/wrap & roll/allo-tikki-wrap.jpg",
   },
   {
     id: "mexican-wrap",
@@ -605,7 +585,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: "Spicy Mexican flavors with Herb Aloo patty, Onion, Capsicum, Cabbage, and salsa.",
     isVeg: true,
     rating: 4.8,
-    image: "https://images.unsplash.com/photo-1626700051175-6818013e1d4f?auto=format&fit=crop&w=600&q=80",
+    image: "/wrap & roll/mexican-wrap.jpg",
   },
   {
     id: "cheese-wrap",
@@ -617,7 +597,7 @@ export const MENU_ITEMS: MenuItem[] = [
     isVeg: true,
     isBestseller: true,
     rating: 4.9,
-    image: "https://images.unsplash.com/photo-1626700051175-6818013e1d4f?auto=format&fit=crop&w=600&q=80",
+    image: "/wrap & roll/cheese-wrap.jpg",
   },
   {
     id: "veg-roti-roll",
@@ -628,7 +608,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: "Freshly made wheat roti rolled with crunchy sautéed veggies and tangy chutney.",
     isVeg: true,
     rating: 4.8,
-    image: "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?auto=format&fit=crop&w=600&q=80",
+    image: "/cwrap & roll/veg-roti-roll.jpg",
   },
   {
     id: "paneer-roti-roll",
@@ -640,7 +620,7 @@ export const MENU_ITEMS: MenuItem[] = [
     isVeg: true,
     isBestseller: true,
     rating: 4.9,
-    image: "https://images.unsplash.com/photo-1626700051175-6818013e1d4f?auto=format&fit=crop&w=600&q=80",
+    image: "/wrap & roll/paneer-roti-roll.jpg",
   },
 
   // ==================== 6. SANDWICHES & GARLIC BREADS ====================
@@ -653,7 +633,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: "Fresh coleslaw vegetable cold sandwich on soft white bread.",
     isVeg: true,
     rating: 4.7,
-    image: "https://images.unsplash.com/photo-1554433607-66b5efe9d304?auto=format&fit=crop&w=600&q=80",
+    image: "/sandwich & garlic/cold-sandwich.jpg",
   },
   {
     id: "cold-sandwich",
@@ -664,7 +644,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: "Full double portion cold vegetable sandwich with creamy mayo.",
     isVeg: true,
     rating: 4.8,
-    image: "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?auto=format&fit=crop&w=600&q=80",
+    image: "/sandwich & garlic/sandwish.jpg",
   },
   {
     id: "veg-grilled-sandwich",
@@ -676,7 +656,7 @@ export const MENU_ITEMS: MenuItem[] = [
     isVeg: true,
     isBestseller: true,
     rating: 4.8,
-    image: "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?auto=format&fit=crop&w=600&q=80",
+    image: "/sandwich & garlic/veg-grilled-sandwich.jpg",
   },
   {
     id: "mushroom-corn-grilled-sandwich",
@@ -687,7 +667,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: "Sautéed button mushrooms and sweet golden corn grilled with melted cheese.",
     isVeg: true,
     rating: 4.8,
-    image: "https://images.unsplash.com/photo-1554433607-66b5efe9d304?auto=format&fit=crop&w=600&q=80",
+    image: "/sandwich & garlic/mushroom-corn-grilled.jpg",
   },
   {
     id: "paneer-tikka-veg-grilled-sandwich",
@@ -699,7 +679,7 @@ export const MENU_ITEMS: MenuItem[] = [
     isVeg: true,
     isBestseller: true,
     rating: 4.9,
-    image: "https://images.unsplash.com/photo-1603064752734-4c48eff53d05?auto=format&fit=crop&w=600&q=80",
+    image: "/sandwich & garlic/paneer-tikka-grilled.jpg",
   },
   {
     id: "c3-layered-grilled-sandwich",
@@ -711,7 +691,7 @@ export const MENU_ITEMS: MenuItem[] = [
     isVeg: true,
     isChefSpecial: true,
     rating: 5.0,
-    image: "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?auto=format&fit=crop&w=600&q=80",
+    image: "/sandwich & garlic/c3-layered-sandwich.jpg",
   },
   {
     id: "cold-veg-sandwich-brown-bread",
@@ -722,7 +702,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: "Healthy whole-grain brown bread cold sandwich with crisp garden greens.",
     isVeg: true,
     rating: 4.7,
-    image: "https://images.unsplash.com/photo-1554433607-66b5efe9d304?auto=format&fit=crop&w=600&q=80",
+    image: "/sandwich & garlic/brown-cold.jpg",
   },
   {
     id: "garden-veg-sandwich-brown-bread",
@@ -733,7 +713,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: "Nutritious brown bread grilled sandwich with bell peppers, cucumbers & paneer.",
     isVeg: true,
     rating: 4.8,
-    image: "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?auto=format&fit=crop&w=600&q=80",
+    image: "/sandwich & garlic/hot-brown.jpg",
   },
   {
     id: "paneer-tikka-sandwich-brown-bread",
@@ -744,7 +724,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: "High-protein brown bread grilled sandwich loaded with spiced cottage cheese.",
     isVeg: true,
     rating: 4.9,
-    image: "https://images.unsplash.com/photo-1603064752734-4c48eff53d05?auto=format&fit=crop&w=600&q=80",
+    image: "/sandwich & garlic/paneer-tikka-grilled.jpg",
   },
   {
     id: "maska-bun",
@@ -755,7 +735,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: "Soft warm bakery bun slathered with rich salted butter — best with chai!",
     isVeg: true,
     rating: 4.8,
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=600&q=80",
+    image: "/sandwich & garlic/maska-bun.jpg",
   },
   {
     id: "garlic-bun",
@@ -766,7 +746,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: "Toasted bun infused with roasted garlic butter and fresh parsley.",
     isVeg: true,
     rating: 4.8,
-    image: "/images/garlic_bun.jpg",
+    image: "/sandwich & garlic/garlic-bun.jpg",
   },
   {
     id: "round-cheese-garlic-bread",
@@ -778,7 +758,7 @@ export const MENU_ITEMS: MenuItem[] = [
     isVeg: true,
     isBestseller: true,
     rating: 4.9,
-    image: "/images/cheesy_garlic_bread.jpg",
+    image: "/sandwich & garlic/round-garlic.jpg",
   },
   {
     id: "garlic-bread-sticks",
@@ -789,7 +769,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: "Oven-baked golden garlic dough sticks served with cheese jalapeno dip.",
     isVeg: true,
     rating: 4.8,
-    image: "/images/garlic_breadsticks.jpg",
+    image: "/sandwich & garlic/garlic-stick-bread.jpg",
   },
   {
     id: "stuff-garlic-bread",
@@ -801,7 +781,7 @@ export const MENU_ITEMS: MenuItem[] = [
     isVeg: true,
     isChefSpecial: true,
     rating: 5.0,
-    image: "/images/stuffed_garlic_bread.jpg",
+    image: "/sandwich & garlic/stuffed-bread.jpg",
   },
 
   // ==================== 7. MAGGI & PASTA & SALADS ====================
@@ -814,7 +794,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: "Classic steaming hot 2-minute street-style masala Maggi noodles.",
     isVeg: true,
     rating: 4.8,
-    image: "/images/maggi_masala.jpg",
+    image: "/maggi & pasta & salads/maggi_masala.jpg",
   },
   {
     id: "double-masala-maggi",
@@ -826,7 +806,7 @@ export const MENU_ITEMS: MenuItem[] = [
     isVeg: true,
     isBestseller: true,
     rating: 4.9,
-    image: "/images/maggi_masala.jpg",
+    image: "/maggi & pasta & salads/double-masala-maggi.jpg",
   },
   {
     id: "veg-maggi",
@@ -837,7 +817,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: "Tossed with diced onions, tomatoes, green capsicum, and sweet peas.",
     isVeg: true,
     rating: 4.8,
-    image: "/images/maggi_masala.jpg",
+    image: "/maggi & pasta & salads/veg-maggi.jpg",
   },
   {
     id: "corn-butter-maggi",
@@ -848,7 +828,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: "Sweet corn kernels tossed with generous dollops of Amul butter.",
     isVeg: true,
     rating: 4.9,
-    image: "/images/maggi_masala.jpg",
+    image: "/maggi & pasta & salads/corn-maggi.jpg",
   },
   {
     id: "tandoori-maggi",
@@ -860,7 +840,7 @@ export const MENU_ITEMS: MenuItem[] = [
     isVeg: true,
     isBestseller: true,
     rating: 5.0,
-    image: "/images/maggi_masala.jpg",
+    image: "/maggi & pasta & salads/tandurii-maggi.jpg",
   },
   {
     id: "c3-special-maggi",
@@ -872,7 +852,7 @@ export const MENU_ITEMS: MenuItem[] = [
     isVeg: true,
     isChefSpecial: true,
     rating: 5.0,
-    image: "/images/paneer_maggi.jpg",
+    image: "/maggi & pasta & salads/c3-special.jpg",
   },
   {
     id: "veg-atta-maggi",
@@ -883,7 +863,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: "Wholesome whole wheat Atta noodles with fresh crunchy vegetables.",
     isVeg: true,
     rating: 4.7,
-    image: "/images/maggi_masala.jpg",
+    image: "/maggi & pasta & salads/c3-special.jpg",
   },
   {
     id: "paneer-atta-maggi",
@@ -894,7 +874,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: "Healthy whole wheat noodles topped with fresh soft cottage cheese cubes.",
     isVeg: true,
     rating: 4.8,
-    image: "/images/paneer_maggi.jpg",
+    image: "/maggi & pasta & salads/atta-maggi.jpg",
   },
   {
     id: "red-sauce-pasta",
@@ -905,7 +885,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: "Penne pasta in tangy San Marzano plum tomato sauce with garlic and herbs.",
     isVeg: true,
     rating: 4.8,
-    image: "https://images.unsplash.com/photo-1621996346565-e3d5d6281728?auto=format&fit=crop&w=600&q=80",
+    image: "/maggi & pasta & salads/red-pasta.jpg",
   },
   {
     id: "white-sauce-pasta",
@@ -917,7 +897,7 @@ export const MENU_ITEMS: MenuItem[] = [
     isVeg: true,
     isBestseller: true,
     rating: 4.9,
-    image: "https://images.unsplash.com/photo-1645112411341-6c4fd023714a?auto=format&fit=crop&w=600&q=80",
+    image: "/maggi & pasta & salads/white-pasta.jpg",
   },
   {
     id: "makhani-pasta",
@@ -928,7 +908,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: "Desi-Italian fusion pasta cooked in rich buttery makhani gravy.",
     isVeg: true,
     rating: 4.8,
-    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?auto=format&fit=crop&w=600&q=80",
+    image: "/maggi & pasta & salads/makhni-pasta.jpg",
   },
   {
     id: "mix-sauce-pasta",
@@ -940,7 +920,7 @@ export const MENU_ITEMS: MenuItem[] = [
     isVeg: true,
     isChefSpecial: true,
     rating: 5.0,
-    image: "https://images.unsplash.com/photo-1555949258-eb67b1ef0ceb?auto=format&fit=crop&w=600&q=80",
+    image: "/maggi & pasta & salads/mix-pasta.jpg",
   },
   {
     id: "green-weve-sub",
@@ -951,7 +931,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: "Fresh sub roll packed with lettuce, cucumbers, peppers & mint dressing.",
     isVeg: true,
     rating: 4.7,
-    image: "https://images.unsplash.com/photo-1554433607-66b5efe9d304?auto=format&fit=crop&w=600&q=80",
+    image: "/maggi & pasta & salads/green-sub.webp",
   },
   {
     id: "fire-house-sub",
@@ -962,7 +942,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: "Spicy sub loaded with jalapeños, spicy paneer & chilly garlic sauce.",
     isVeg: true,
     rating: 4.8,
-    image: "https://images.unsplash.com/photo-1554433607-66b5efe9d304?auto=format&fit=crop&w=600&q=80",
+    image: "/maggi & pasta & salads/fire-house-sub.jpg",
   },
   {
     id: "diet-salad",
@@ -973,7 +953,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: "Crisp cucumbers, tomatoes, carrots, bell peppers, and olive lemon dressing.",
     isVeg: true,
     rating: 4.7,
-    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&w=600&q=80",
+    image: "/maggi & pasta & salad/sdiete-salad.jpg",
   },
   {
     id: "corn-peanut-salad",
@@ -984,7 +964,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: "Steamed sweet corn and roasted peanuts tossed with chaat spices & lime.",
     isVeg: true,
     rating: 4.8,
-    image: "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=600&q=80",
+    image: "/maggi & pasta & salads/corn-salad.jpg",
   },
   {
     id: "c3-fitness-salad",
@@ -996,7 +976,7 @@ export const MENU_ITEMS: MenuItem[] = [
     isVeg: true,
     isChefSpecial: true,
     rating: 4.9,
-    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&w=600&q=80",
+    image: "/maggi & pasta & salads/corn-salad.jpg",
   },
 
   // ==================== 8. CHINA TOWN & SNACKS ====================
@@ -1009,7 +989,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: "Delicate steamed dumplings stuffed with minced vegetables & spicy red dip.",
     isVeg: true,
     rating: 4.8,
-    image: "https://images.unsplash.com/photo-1625246333195-78d9c38ad449?auto=format&fit=crop&w=600&q=80",
+    image: "/snakes/momos.jpg",
   },
   {
     id: "paneer-momos",
@@ -1021,7 +1001,7 @@ export const MENU_ITEMS: MenuItem[] = [
     isVeg: true,
     isBestseller: true,
     rating: 4.9,
-    image: "https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?auto=format&fit=crop&w=600&q=80",
+    image: "/snakes/panner-momos.jpg",
   },
   {
     id: "cheese-corn-momos",
@@ -1033,7 +1013,7 @@ export const MENU_ITEMS: MenuItem[] = [
     isVeg: true,
     isChefSpecial: true,
     rating: 5.0,
-    image: "https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?auto=format&fit=crop&w=600&q=80",
+    image: "/snakes/cheese-corn-momos.jpg",
   },
   {
     id: "spring-roll",
@@ -1044,7 +1024,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: "Crispy golden fried rolls stuffed with seasoned shredded vegetables.",
     isVeg: true,
     rating: 4.8,
-    image: "https://images.unsplash.com/photo-1541592106381-b31e9677c0e5?auto=format&fit=crop&w=600&q=80",
+    image: "/snakes/spring-roll.jpg",
   },
   {
     id: "fry-potato-balls",
@@ -1055,7 +1035,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: "Crunchy golden potato poppers seasoned with herbs and served with tangy dip.",
     isVeg: true,
     rating: 4.7,
-    image: "https://images.unsplash.com/photo-1541592106381-b31e9677c0e5?auto=format&fit=crop&w=600&q=80",
+    image: "/snakes/potato-bolls.jpg",
   },
   {
     id: "hara-bhara-kabab",
@@ -1066,7 +1046,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: "Spinach, green pea & potato patties spiced with garam masala and grilled.",
     isVeg: true,
     rating: 4.8,
-    image: "https://images.unsplash.com/photo-1520072959219-c595dc870360?auto=format&fit=crop&w=600&q=80",
+    image: "/snakes/hara-bhara-cabab.jpg",
   },
   {
     id: "south-indian-roll",
@@ -1077,7 +1057,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: "Crispy fried rolls filled with tempered South Indian spiced filling.",
     isVeg: true,
     rating: 4.7,
-    image: "https://images.unsplash.com/photo-1626700051175-6818013e1d4f?auto=format&fit=crop&w=600&q=80",
+    image: "/snakes/south-indian-roll.jpg",
   },
   {
     id: "fry-paneer-popcorn",
@@ -1089,7 +1069,7 @@ export const MENU_ITEMS: MenuItem[] = [
     isVeg: true,
     isBestseller: true,
     rating: 4.9,
-    image: "https://images.unsplash.com/photo-1562967914-608f82629710?auto=format&fit=crop&w=600&q=80",
+    image: "/snakes/fry-popcorn.jpg",
   },
   {
     id: "garlic-chilli-balls",
@@ -1100,7 +1080,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: "Crispy cheese & potato balls infused with fiery red chilies and garlic.",
     isVeg: true,
     rating: 4.8,
-    image: "/images/garlic_chilli_balls.jpg",
+    image: "/snakes/chilli-bools.jpg",
   },
   {
     id: "honey-chilli-potatoes",
@@ -1112,7 +1092,7 @@ export const MENU_ITEMS: MenuItem[] = [
     isVeg: true,
     isBestseller: true,
     rating: 5.0,
-    image: "https://images.unsplash.com/photo-1585109649139-366815a0d713?auto=format&fit=crop&w=600&q=80",
+    image: "/snakes/honey-potato.jpg",
   },
   {
     id: "veg-platter",
@@ -1124,7 +1104,7 @@ export const MENU_ITEMS: MenuItem[] = [
     isVeg: true,
     isChefSpecial: true,
     rating: 5.0,
-    image: "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=600&q=80",
+    image: "/snakes/veg-platter.jpg",
   },
 
   // ==================== 9. FRIES & DESSERTS ====================
@@ -1137,7 +1117,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: "Classic golden fried salted potato fries served with tomato ketchup.",
     isVeg: true,
     rating: 4.8,
-    image: "https://images.unsplash.com/photo-1585109649139-366815a0d713?auto=format&fit=crop&w=600&q=80",
+    image: "/fries & desserts/fries.jpg",
   },
   {
     id: "peri-peri-fries",
@@ -1149,7 +1129,7 @@ export const MENU_ITEMS: MenuItem[] = [
     isVeg: true,
     isBestseller: true,
     rating: 4.9,
-    image: "https://images.unsplash.com/photo-1585109649139-366815a0d713?auto=format&fit=crop&w=600&q=80",
+    image: "/fries & desserts/pari-pari-fries.jpg",
   },
   {
     id: "loaded-fries",
@@ -1161,7 +1141,7 @@ export const MENU_ITEMS: MenuItem[] = [
     isVeg: true,
     isChefSpecial: true,
     rating: 5.0,
-    image: "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?auto=format&fit=crop&w=600&q=80",
+    image: "/fries & desserts/loaded-fries.jpg",
   },
   {
     id: "simple-choco-lava",
@@ -1172,7 +1152,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: "Warm chocolate sponge cake with a molten liquid dark chocolate center.",
     isVeg: true,
     rating: 4.8,
-    image: "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?auto=format&fit=crop&w=600&q=80",
+    image: "/fries & desserts/choco-lava.jpg",
   },
   {
     id: "choco-lava-with-ice-cream",
@@ -1184,7 +1164,7 @@ export const MENU_ITEMS: MenuItem[] = [
     isVeg: true,
     isBestseller: true,
     rating: 5.0,
-    image: "https://images.unsplash.com/photo-1551024601-bec78aea704b?auto=format&fit=crop&w=600&q=80",
+    image: "/fries & desserts/choco-lava-icecream.jpg",
   },
   {
     id: "brownie",
@@ -1195,7 +1175,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: "Dense, decadent dark chocolate walnut fudge brownie.",
     isVeg: true,
     rating: 4.8,
-    image: "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?auto=format&fit=crop&w=600&q=80",
+    image: "/fries & desserts/brownie.jpg",
   },
   {
     id: "brownie-with-ice-cream",
@@ -1207,6 +1187,6 @@ export const MENU_ITEMS: MenuItem[] = [
     isVeg: true,
     isChefSpecial: true,
     rating: 5.0,
-    image: "https://images.unsplash.com/photo-1551024601-bec78aea704b?auto=format&fit=crop&w=600&q=80",
+    image: "/fries & desserts/brwnie-icecream.jpg",
   },
 ];

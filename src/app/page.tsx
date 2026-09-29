@@ -6,7 +6,6 @@ import { Franchise } from "@/components/Franchise";
 import { Location } from "@/components/Location";
 import FloatingWA from "@/components/FloatingWA";
 import { Footer } from "@/components/Footer";
-
 export default function Home() {
   return (
     <div className="flex flex-col min-h-screen bg-[#faf8f5] text-[#1c1917] selection:bg-[#e05326] selection:text-white">
